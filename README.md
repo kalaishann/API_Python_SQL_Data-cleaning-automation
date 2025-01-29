@@ -2,7 +2,7 @@
 
 # Project Steps
 ## Set Up the Environment
-### Tools Used: Visual Studio Code (VS Code), Python, SQL (MySQL and PostgreSQL)
+### Tools Used: Visual Studio Code (VS Code), Python, SQL.
 ### Goal: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
 ## Set Up Kaggle API
 ### API Setup: Obtain your Kaggle API token from Kaggle by navigating to your profile settings and downloading the JSON file.
@@ -29,9 +29,9 @@
 ## Feature Engineering
 ### Create New Columns: Calculate the Total Amount for each transaction by multiplying unit_price by quantity and adding this as a new column.
 ### Enhance Dataset: Adding this calculated field will streamline further SQL analysis and aggregation tasks.
-## Load Data into MySQL and PostgreSQL
-### Set Up Connections: Connect to MySQL and PostgreSQL using sqlalchemy and load the cleaned data into each database.
-### Table Creation: Set up tables in both MySQL and PostgreSQL using Python SQLAlchemy to automate table creation and data insertion.
+## Load Data into MySQL.
+### Set Up Connections: Connect to MySQL  using sqlalchemy and load the cleaned data into each database.
+### Table Creation: Set up tables in MySQL using PYMYSQL SQLAlchemy to automate table creation and data insertion.
 ### Verification: Run initial SQL queries to confirm that the data has been loaded accurately.
 ## SQL Analysis: Complex Queries and Business Problem Solving
 ### Business Problem-Solving: Write and execute complex SQL queries to answer critical business questions, such as:
