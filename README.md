@@ -1,6 +1,6 @@
 # API_Python_SQL_Data-cleaning-automation
 
-Project Steps
+## Project Steps
 1. Set Up the Environment
 Tools Used: Visual Studio Code (VS Code), Python, SQL (MySQL and PostgreSQL)
 Goal: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
