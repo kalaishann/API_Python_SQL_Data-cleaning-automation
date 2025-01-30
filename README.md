@@ -19,7 +19,7 @@
 ### Loading Data: Read the data into a Pandas DataFrame for initial analysis and transformations.
 ## Explore the Data
 ### Goal: Conduct an initial data exploration to understand data distribution, check column names, types, and identify potential issues.
-### Analysis: Use functions like   .info(),   .describe(), and   .head() to get a quick overview of the data structure and statistics.
+### Analysis: Use functions like   '.info()',   .describe(), and   .head() to get a quick overview of the data structure and statistics.
 ## Data Cleaning
 ### Remove Duplicates: Identify and remove duplicate entries to avoid skewed results.
 ### Handle Missing Values: Drop rows or columns with missing values if they are insignificant; fill values where essential.
