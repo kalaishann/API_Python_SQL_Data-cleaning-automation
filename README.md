@@ -1,4 +1,4 @@
-# END-TO-TO_Python_SQL PROJECT
+# END-TO-END_Python_SQL PROJECT
 
 # Project Steps
 ## Set Up the Environment
