@@ -5,10 +5,10 @@
 ### Tools Used: Visual Studio Code (VS Code), Python, SQL.
 ### Goal: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
 ## Set Up Kaggle API
-### API Setup: Obtain your Kaggle API token from Kaggle by navigating to your profile settings and downloading the JSON file.
+### API Setup: Obtain Kaggle API token from Kaggle by navigating to my profile settings and downloading the JSON file.
 ## Configure Kaggle:
-### Place the downloaded kaggle.json file in your local `.kaggle `folder.
-### Use the command kaggle datasets download `-d <dataset-path>` to pull datasets directly into your project.
+### Place the downloaded kaggle.json file in my local `.kaggle `folder.
+### Use the command kaggle datasets download `-d <dataset-path>` to pull datasets directly into my project.
 ## Download Walmart Sales Data
 ### Data Source: Use the `Kaggle` API to download the Walmart sales datasets from Kaggle.
 ### Dataset Link: Walmart Sales Dataset
@@ -30,11 +30,11 @@
 ### Create New Columns: Calculate the Total Amount for each transaction by multiplying unit_price by quantity and adding this as a new column.
 ### Enhance Dataset: Adding this calculated field will streamline further SQL analysis and aggregation tasks.
 ## Load Data into MySQL.
-### Set Up Connections: Connect to MySQL  using sqlalchemy and load the cleaned data into each database.
+### Set Up Connections: Connect to MySQL  using sqlalchemy and load the cleaned data into database.
 ### Table Creation: Set up tables in MySQL using PYMYSQL SQLAlchemy to automate table creation and data insertion.
 ### Verification: Run initial SQL queries to confirm that the data has been loaded accurately.
 ## SQL Analysis: Complex Queries and Business Problem Solving
-### Business Problem-Solving: Write and execute complex SQL queries to answer critical business questions, such as:
+### Business Problem-Solving:  such as:
 ### Revenue trends across branches and categories.
 ### Identifying best-selling product categories.
 ### Sales performance by time, city, and payment method.
